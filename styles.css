@@ -125,9 +125,17 @@ h3 {
 }
 
 .footer-link:hover {
-    color: white;
+    color: #ffffff;
 }
 
 p{
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.copyright{
+    padding-top: 40px;
+}
+
+.icon{
+    font-size: 35px;
 }

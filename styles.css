@@ -4,21 +4,24 @@
     padding-top: 100px;
     margin-bottom: 40px;
 }
+
 .profile-pic{
     margin-bottom: 30px;
 }
+
 body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
-    /* font-size: 200%; */
 }
+
 h1 {
     margin-top: 50px auto 0 auto; 
     color: red;
     font-size: 5.625rem;
     font-family: 'Sacramento', cursive;
 }
+
 h2 {
     color: green;
     font-family: 'Montserrat', sans-serif;
@@ -26,8 +29,8 @@ h2 {
     font-weight: normal;
     margin: 0 0 10px 0;
 }
+
 h3 {
-    
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -36,35 +39,32 @@ h3 {
     left:250px;
     bottom: 300px;
 }
+
 .top-cloud {
     position: absolute;
     right: 300px;
     top:40px;
 }
+
 .skill-row {
     margin: 50px auto 50px auto;
     width: 50%;
     text-align: left;
     line-height: 2;
-    
 }
+
 .Programming {
     width: 25%;
     float: right;    
     margin-left: 30px;
-    
 }
+
 .Design {
     width: 25%;
     float: left;
     margin-right: 30px;
 }
-/* .Design-Description {
-    clear: left;
-}
-.Programming-Description {
-    clear: right;
-} */
+
 .hr {
     border-color: gray;
     border-style: none;
@@ -73,9 +73,11 @@ h3 {
     border-width: 5px;
  
 }
+
 .description {
     color: #40514E;
 }
+
 .btn {
     background: #3498db;
     background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
@@ -104,23 +106,28 @@ h3 {
   }
 
 .bottom-container {
-    background-color: #66BFBF;
-    padding: 40px 0 20px;
+    background-color: #3498db;
+    padding: 100px 0 20px;
     margin-top: 100px;
 }
+
 .note {
-    /* padding-bottom: 40px;
-    padding-top: 40px; */
     width: 40%;
     margin: auto;
     margin-bottom: 60px;
 }
+
 .footer-link {
-    /* color:#11999E; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
     text-decoration: none;
     margin: 10px 20px;
 }
+
 .footer-link:hover {
     color: white;
+}
 
+p{
+    font-family: Arial, Helvetica, sans-serif;
 }

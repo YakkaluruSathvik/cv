@@ -134,8 +134,13 @@ p{
 
 .copyright{
     padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 .icon{
-    font-size: 35px;
+    font-size: 40px;
+}
+
+.icon:hover{
+    font-size: 40px;
 }

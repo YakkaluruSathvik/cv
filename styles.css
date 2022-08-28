@@ -36,7 +36,6 @@ h3 {
     margin: 50px auto 50px auto;
     width: 50%;
     text-align: left;
-    line-height: 2;
 }
 
 .hr {
@@ -117,4 +116,22 @@ p{
 
 .icon:hover{
     font-size: 40px;
+}
+
+.degree{
+    margin: 50px auto 50px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.project{
+    margin: 50px auto 50px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.codingprofile{
+    margin: 50px auto 50px auto;
+    width: 50%;
+    text-align: left;
 }
